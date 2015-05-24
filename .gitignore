@@ -1,6 +1,4 @@
 .DS_Store
 .git
 node_modules
-public/css/
-public/speaker/
-public/*.html
+build/
